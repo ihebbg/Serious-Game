@@ -1,3 +1,3 @@
 # Serious-Game
-Develop 3D Game using UNITY 2017.
-purpose : help kids to learn nouns of animlas with English language.
+Création d' un jeux éducatif 3D destiné aux enfants pour apprendre les noms des animaux en Anglais.
+Technologies utilisés : Unity, C#, Photoshop,Illustrator
